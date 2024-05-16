@@ -29,6 +29,9 @@ body{
     font-size: 32px;
     color: var(--verde);
 }
+.titulo-principal span{
+    color:var(--verde) ; 
+}
 
 .botao{
     background-color:var(--botao-inativo);
